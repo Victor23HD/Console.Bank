@@ -1,0 +1,15 @@
+C:\Users\xitor\source\repos\Console_Bank\Console_Bank\bin\Debug\net6.0\Console_Bank.exe
+C:\Users\xitor\source\repos\Console_Bank\Console_Bank\bin\Debug\net6.0\Console_Bank.deps.json
+C:\Users\xitor\source\repos\Console_Bank\Console_Bank\bin\Debug\net6.0\Console_Bank.runtimeconfig.json
+C:\Users\xitor\source\repos\Console_Bank\Console_Bank\bin\Debug\net6.0\Console_Bank.dll
+C:\Users\xitor\source\repos\Console_Bank\Console_Bank\bin\Debug\net6.0\Console_Bank.pdb
+C:\Users\xitor\source\repos\Console_Bank\Console_Bank\obj\Debug\net6.0\Console_Bank.csproj.AssemblyReference.cache
+C:\Users\xitor\source\repos\Console_Bank\Console_Bank\obj\Debug\net6.0\Console_Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xitor\source\repos\Console_Bank\Console_Bank\obj\Debug\net6.0\Console_Bank.AssemblyInfoInputs.cache
+C:\Users\xitor\source\repos\Console_Bank\Console_Bank\obj\Debug\net6.0\Console_Bank.AssemblyInfo.cs
+C:\Users\xitor\source\repos\Console_Bank\Console_Bank\obj\Debug\net6.0\Console_Bank.csproj.CoreCompileInputs.cache
+C:\Users\xitor\source\repos\Console_Bank\Console_Bank\obj\Debug\net6.0\Console_Bank.dll
+C:\Users\xitor\source\repos\Console_Bank\Console_Bank\obj\Debug\net6.0\refint\Console_Bank.dll
+C:\Users\xitor\source\repos\Console_Bank\Console_Bank\obj\Debug\net6.0\Console_Bank.pdb
+C:\Users\xitor\source\repos\Console_Bank\Console_Bank\obj\Debug\net6.0\Console_Bank.genruntimeconfig.cache
+C:\Users\xitor\source\repos\Console_Bank\Console_Bank\obj\Debug\net6.0\ref\Console_Bank.dll
